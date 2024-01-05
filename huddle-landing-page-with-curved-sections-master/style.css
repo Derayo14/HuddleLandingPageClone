@@ -7,9 +7,9 @@ header{
     justify-content: space-between;
 } 
 .logo svg{
-    /* padding: 20em; */
+ 
    width: 90%;
-   /* max-height: 50%; */
+ 
 }
 .tryBtn button{
     color: pink;
@@ -27,9 +27,6 @@ header{
 main{
     /* margin: 6em; */
     text-align: center;
-}
-.images{
-    max-width: 10;
 }
 
 
