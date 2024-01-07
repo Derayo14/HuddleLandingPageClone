@@ -6,11 +6,10 @@ header{
     display: flex;
     justify-content: space-between;
 } 
-.logo svg{
- 
-   width: 90%;
- 
+.logo img{
+    width: 80%;
 }
+
 .tryBtn button{
     color: pink;
     text-decoration: dashed;
@@ -27,9 +26,29 @@ header{
 main{
     /* margin: 6em; */
     text-align: center;
+    margin-top: 4em;
 }
-
-
+.images img{
+    width: 80%;
+    padding: 4em 7em;
+}
+.stats{
+    display: flex;
+    justify-content: space-evenly;
+}
+.textimg{
+    display: flex;
+    justify-content:space-between;
+    width: 90%;
+    align-items: center;
+    padding: 2em 4em;
+}
+.txt{
+    margin: 1em 8em;
+}
+.textimg img{
+    width: 80%;
+}
 
 .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
